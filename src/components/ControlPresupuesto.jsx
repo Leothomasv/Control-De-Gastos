@@ -60,4 +60,6 @@ const ControlPresupuesto = ({gastos, presupuesto}) => {
   )
 }
 
+//hola nuevo
+
 export default ControlPresupuesto
